@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [Project Monitoring and Tracking System](https://pmts.makueni.go.ke)
 
+- 🔭 Bulding scalable solutions at  [Devlan Solutions LTD](https://devlan.co.ke) and [Government of Makueni County](https://makueni.go.ke)
+
 - 🌱 I’m currently learning **SpringBoot, DevOps, Ruby on Rails, ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://martmbithi.github.io/](https://martmbithi.github.io/)
