@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/martinezmbithi" target="blank"><img src="https://img.shields.io/twitter/follow/martinezmbithi?logo=twitter&style=for-the-badge" alt="martinezmbithi" /></a> </p>
 
-- 🔭 I’m currently working on [Project Monitoring and Tracking System](https://pmts.makueni.go.ke) and [IVA System](https://ivas.makueni.go.ke)
+- 🔭 I’m currently working on [Project Monitoring and Tracking System](https://pmts.makueni.go.ke) and [Lite Inventory](https://github.com/MartDevelopers-Inc/lite_inventory)
   
 -  🔭 Bulding scalable solutions at [Devlan Solutions LTD](https://devlan.co.ke) and [Government Of Makueni County](https://makueni.go.ke)
   
