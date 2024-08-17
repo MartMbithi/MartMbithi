@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👾 I'm Martin Mbithi</h1>
 <h3 align="center">Software Engineer by day, coding wizard by night! 🧙‍♂️ I mix tech sorcery with a dash of creative madness to conjure up innovative solutions and pixel-perfect designs. Ready to turn your wildest ideas into reality? Let's geek out together! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martmbithi&label=👀%20Curious%20Souls&color=ff69b4&style=flat" alt="martmbithi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/martinezmbithi" target="blank"><img src="https://img.shields.io/twitter/follow/martinezmbithi?logo=twitter&style=for-the-badge" alt="martinezmbithi" /></a> </p>
-
 - 🔭 Currently casting spells on [Project Monitoring and Tracking System](https://pmts.makueni.go.ke) and [CIFMIS - Procurement Module](https://procurement.makueni.go.ke). 🧙‍♂️
 
 - 🛠️ Building epic, scalable fortresses at [Devlan Solutions LTD](https://devlan.co.ke) and [Government Of Makueni County](https://makueni.go.ke). 🏰
