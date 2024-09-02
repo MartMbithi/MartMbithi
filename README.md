@@ -3,7 +3,7 @@
 
 - 🔭 Currently casting spells on [CIFMIS - Procurement Module](https://procurement.makueni.go.ke). 🧙‍♂️
 
-- 🛠️ Building epic, scalable fortresses at [Devlan Solutions LTD](https://devlan.co.ke) and [Government Of Makueni County](https://makueni.go.ke). 🏰
+- 🛠️ Building epic, scalable fortresses at [Devlan Solutions LTD](https://devlan.co.ke)  🏰
 
 - 👨‍💻 Dive into my magical portfolio: [https://martmbithi.github.io/](https://martmbithi.github.io/) 🎨✨
 
