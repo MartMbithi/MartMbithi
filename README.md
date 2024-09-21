@@ -1,15 +1,11 @@
 <h1 align="center">Hey there! 👾 I'm Martin Mbithi</h1>
-<h3 align="center">Software Engineer by day, coding wizard by night! 🧙‍♂️ I mix tech sorcery with a dash of creative madness to conjure up innovative solutions and pixel-perfect designs. Ready to turn your wildest ideas into reality? Let's geek out together! 🚀</h3>
-
-- 🔭 Currently casting spells on [CIFMIS - Procurement Module](https://procurement.makueni.go.ke). 🧙‍♂️
+<h3 align="center">A software engineer, who thrives on continuous learning and adapting to diverse challenges. My focus on precision and optimizing performance drives me to deliver high-quality solutions. I also enjoy solving complex problems with creativity and logic, exploring new possibilities and pushing the boundaries of what is possible.</h3>
 
 - 🛠️ Building epic, scalable fortresses at [Devlan Solutions LTD](https://devlan.co.ke)  🏰
 
 - 👨‍💻 Dive into my magical portfolio: [https://martmbithi.github.io/](https://martmbithi.github.io/) 🎨✨
 
-- 📫 Summon me via email at **martinezmbithi@gmail.com** or drop me a line on WhatsApp at **+254740847563**. 🦉📜
-
-- 📄 Peek into my experience spellbook: [https://martmbithi.github.io/](https://martmbithi.github.io/) 📚🔮
+- 📫 Summon me via email at **martinezmbithi@gmail.com**  🦉📜
 
 
 <h3 align="left">Connect with me:</h3>
