@@ -1,5 +1,7 @@
 <h1 align="center">Hey there! 👾 I'm Martin Mbithi</h1>
-<h3 align="center">A software engineer, who thrives on continuous learning and adapting to diverse challenges. My focus on precision and optimizing performance drives me to deliver high-quality solutions. I also enjoy solving complex problems with creativity and logic, exploring new possibilities and pushing the boundaries of what is possible.</h3>
+<h3 align="left">
+A software engineer, who thrives on continuous learning and adapting to diverse challenges. My focus on precision and optimizing performance drives me to deliver high-quality solutions. I also enjoy solving complex problems with creativity and logic, exploring new possibilities and pushing the boundaries of what is possible. 
+</h3>
 
 - 🛠️ Building epic, scalable fortresses at [Devlan Solutions LTD](https://devlan.co.ke)  🏰
 
