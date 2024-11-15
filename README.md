@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👾 I'm Martin Mbithi</h1>
 <h3 align="left">
-A software engineer, who thrives on continuous learning and adapting to diverse challenges. My focus on precision and optimizing performance drives me to deliver high-quality solutions. I also enjoy solving complex problems with creativity and logic, exploring new possibilities and pushing the boundaries of what is possible. 
+A passionate software engineer who excels in continuous learning and thrives on tackling diverse challenges. With a focus on precision and performance optimization, I am committed to delivering high-quality solutions. I enjoy leveraging creativity and logic to solve complex problems, explore new possibilities, and push the boundaries of innovation.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
